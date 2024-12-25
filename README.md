@@ -1,4 +1,7 @@
 # Highseas-task-management-app.github.io
+
+Disclaimer: This project is made by Tutorial and I add some features and change the user interface also take help of AI to solve some error only.
+
  
 The Task Management app allows users to effectively manage and track tasks. You can add tasks with a specific due date, set priorities , and track progress. The app provides a progress bar to show the completion status and a count for both completed and pending tasks . Additionally, you can filter tasks by priority, completion status, or active status. 
 
